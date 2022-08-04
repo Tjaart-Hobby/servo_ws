@@ -1,0 +1,2 @@
+servo_controle
+-DCATKIN_DEVEL_PREFIX=/home/tk/servo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tk/servo_ws/install -G Unix Makefiles

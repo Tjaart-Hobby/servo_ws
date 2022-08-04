@@ -1,0 +1,8 @@
+prefix=/home/tk/servo_ws/install
+
+Name: servo_controle
+Description: Description of servo_controle
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy

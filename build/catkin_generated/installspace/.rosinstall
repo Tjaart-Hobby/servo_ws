@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/tk/servo_ws/install/setup.sh
